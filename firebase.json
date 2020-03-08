@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "target": "saas",
+    "public": "test",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+
+}

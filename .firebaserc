@@ -1,0 +1,21 @@
+{
+  "projects": {
+    "default": "inlaid-tribute-255911"
+  },
+  "targets": {
+    "inlaid-tribute-255911": {
+      "hosting": {
+        "saas": [
+          "saas-megalink"
+        ]
+      }
+    },
+    "jarvis-256310": {
+      "hosting": {
+        "saas": [
+          "saas-javis"
+        ]
+      }
+    }
+  }
+}
